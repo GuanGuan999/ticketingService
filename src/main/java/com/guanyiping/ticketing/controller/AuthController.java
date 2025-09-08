@@ -1,5 +1,6 @@
 package com.guanyiping.ticketing.controller;
 
+import com.guanyiping.ticketing.request.LoginRequest;
 import com.guanyiping.ticketing.request.UserRequest;
 import com.guanyiping.ticketing.security.JwtUtil;
 import com.guanyiping.ticketing.service.UserService;
